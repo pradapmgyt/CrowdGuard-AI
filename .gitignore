@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated logs
+alerts/alert_log.txt
+
+# YOLO model weights
+yolov8n.pt
+yolov8s.pt
